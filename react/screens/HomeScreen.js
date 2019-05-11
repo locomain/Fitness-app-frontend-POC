@@ -1,9 +1,9 @@
 import React from 'react';
-import * as view from './views/HomeScreenView';
+import {homeView} from "./views/HomeScreenView";
 
 export default class HomeScreen extends React.Component {
 
   render() {
-    return view();
+    return homeView();
   }
 }

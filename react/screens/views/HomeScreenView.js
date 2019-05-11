@@ -1,11 +1,9 @@
 import {Text, View} from "react-native";
 import React from "react";
 
-
-
-export default function() {
+export function homeView() {
     return (
-        <View style={styles.container}>
+        <View>
             <Text>
                 hey giel wat gaaf
             </Text>
