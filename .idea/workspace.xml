@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bfb44f6d-2692-40d0-9cc5-7518450ffcc2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/__tests__/App-test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/components/TabBarIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/components/TabBarIcon.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/screens/HomeScreen.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react/screens/views/HomeScreenView.js" beforeDir="false" afterPath="$PROJECT_DIR$/react/screens/views/HomeScreenView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nativescript/app/home/home-page.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nativescript/app/home/home-page.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,49 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/screens/HomeScreen.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/components/StyledText.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/react/components/TabBarIcon.js">
+        <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/react/screens/views/HomeScreenView.js">
+        <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <element signature="e#0#77#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -90,11 +58,14 @@
         <option value="$PROJECT_DIR$/react/screens/HomeScreen.js" />
         <option value="$PROJECT_DIR$/react/screens/views/HomeScreenView.js" />
         <option value="$PROJECT_DIR$/react/components/TabBarIcon.js" />
+        <option value="$PROJECT_DIR$/nativescript/app/home/home-page.xml" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.html" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.ts" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2568" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
@@ -112,6 +83,32 @@
               <item name="Fitness-app-frontend-POC" type="b2602c69:ProjectViewProjectNode" />
               <item name="Fitness-app-frontend-POC" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Fitness-app-frontend-POC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fitness-app-frontend-POC" type="462c0819:PsiDirectoryNode" />
+              <item name="nativescript-angular-ts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fitness-app-frontend-POC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fitness-app-frontend-POC" type="462c0819:PsiDirectoryNode" />
+              <item name="nativescript-angular-ts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fitness-app-frontend-POC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fitness-app-frontend-POC" type="462c0819:PsiDirectoryNode" />
+              <item name="nativescript-angular-ts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Fitness-app-frontend-POC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Fitness-app-frontend-POC" type="462c0819:PsiDirectoryNode" />
+              <item name="nativescript-angular-ts" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -123,9 +120,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\IntelliJ IDEA 2019.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,24 +149,25 @@
       <option name="presentableId" value="Default" />
       <updated>1557577882442</updated>
       <workItem from="1557577884926" duration="307000" />
-      <workItem from="1557578227683" duration="4854000" />
+      <workItem from="1557578227683" duration="7403000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5161000" />
+    <option name="totallyTimeSpent" value="7710000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2568" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13394277" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2527822" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -178,7 +178,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.2244739" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5752143" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -193,6 +193,17 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/main.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/app-routing.module.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/app.component.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/app.module.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.module.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.js" />
+        <option value="$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home-routing.module.js" />
+      </list>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/react/constants/Layout.js">
@@ -229,10 +240,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/screens/HomeScreen.js">
+    <entry file="file://$PROJECT_DIR$/react/components/TabBarIcon.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        <state relative-caret-position="340">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -248,13 +259,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/react/components/TabBarIcon.js">
+    <entry file="file://$PROJECT_DIR$/react/screens/HomeScreen.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript/app/home/home-view-model.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript/app/home/home-page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript/app/home/home-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/main.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#107#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/app.component.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/app.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/app.component.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home-routing.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.module.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#59#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nativescript-angular-ts/src/app/home/home.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
         </state>
       </provider>
     </entry>
